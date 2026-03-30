@@ -78,7 +78,7 @@ Visual representation of modules and testing coverage.
 3. Perform cross-browser testing:
    - Google Chrome  
    - Mozilla Firefox  
-   - Safari  
+   - Microsoft Edge  
 
 4. Report bugs (if any) using proper format  
 
