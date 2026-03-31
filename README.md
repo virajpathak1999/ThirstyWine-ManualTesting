@@ -45,7 +45,7 @@ Final report with testing results and overall quality assessment.
 
 ### 🧠 Mind Map
 Visual representation of modules and testing coverage.  
-👉 [View Mind Map](https://docs.google.com/document/d/13h7zUmFMIROaasKiK7v_-ooYJd0VPamc-yz1aRKM96s/edit?usp=sharing)
+👉 [View Mind Map]()
 
 ---
 
